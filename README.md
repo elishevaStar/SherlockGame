@@ -32,7 +32,7 @@
 סיום המשחק בניצחון:
 ![image](https://github.com/elishevaStar/SherlockGame/assets/144705468/a9a94418-a924-422c-813b-0f0f73b8cbb6)
 
-במהלך המשחק מופיע בצד בלחצה סרגל הגדרות: ![setting2](https://github.com/elishevaStar/SherlockGame/assets/144705468/3717a56c-64d4-4930-8afe-34b068b19188)
+במהלך המשחק מופיע בצד בלחיצה סרגל הגדרות: ![setting](https://github.com/elishevaStar/SherlockGame/assets/144705468/d6477040-6cdd-4637-b07a-8238580ff99d)
 
 השמעת/ עצירת מוזיקת רקע:  ![music1](https://github.com/elishevaStar/SherlockGame/assets/144705468/1927842a-ce62-4ca6-be6a-311cc1821479)
 
