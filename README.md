@@ -9,6 +9,9 @@
 
 אפשרות לבחור האם להתחיל משחק חדש או להמשיך מנקודת העצירה של המשחק האחרון:
 
+![image](https://github.com/elishevaStar/SherlockGame/assets/144705468/d7c6c9ff-c585-4add-8155-fe5ace14b6c0)
+
+
 עד ששעון העצר בצד לא מתמלא הקלפים גלויים
 ![image](https://github.com/elishevaStar/SherlockGame/assets/144705468/e4984056-ba4e-4a3a-906c-a805a3003146)
 
